@@ -33,6 +33,7 @@ The work involved both software and physical hardware, requiring experimentation
 
 This project was completed through Randolph-Macon College's Summer Undergraduate Research Fellowship (SURF) program. The experience involved integrating software, machine-learning models, and physical hardware into an experimental autonomous-driving system and presenting the research at the SURF Research Symposium.
 
+📄 **Research Paper:** [Read the full SURF research paper](SURF-2025-Self-Driving-RC-Car.pdf)
 ## Key Takeaways
 
 This project gave me hands-on experience working across the full machine-learning development process, from collecting and preparing data to training models and evaluating their behavior on a physical system. It also strengthened my experience debugging systems where machine learning, software, and hardware interact.
